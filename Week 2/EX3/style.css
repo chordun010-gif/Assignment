@@ -1,0 +1,16 @@
+button {
+  background-color: #ff69fd;
+  border: 3px solid #e24be0;
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 10px 10px;
+  font-family: 'Consolas', monospace;
+}
+button:hover {
+  background-color: #772375;
+  border: 3px solid #5d105b;
+  color: white;
+
+}
